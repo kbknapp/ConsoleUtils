@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+"""
+Python 3.x
+
+consoleutils.py
+
+Provides common functions for command line scripts and programs
+"""
 import subprocess
 import sys
 import time
